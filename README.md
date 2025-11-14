@@ -57,12 +57,12 @@ Not all of these notes are complete, usually the notes are either
 
 - `[FN]` [High-Performance Computing](https://applesauce-notes.notion.site/High-Performance-Computing-5e4fe40cb05849b3be49955d07a4703d?pvs=4)
 - `[CN]` [Introduction to Neuroinformatics](https://github.com/KaiErikNiermann/ini-ethz-notes) 
-- `[FN]` [Category Theory](https://applesauce-notes.notion.site/Category-Theory-2abb8b37e54180c6921bcd7c1007d981?source=copy_link)
+- `[FN]` [Category Theory](https://applesauce-notes.notion.site/Category-Theory-2abb8b37e54180c6921bcd7c1007d981?source=copy_link) (\*in progress)
 
 ### Non-CS 
 
 - `[FN]` [Computational Intelligence](https://applesauce-notes.notion.site/Computational-Intelligence-f343a344873f44f08e88f12395165626?pvs=4) 
-- `[CN]` [Calculus I](https://applesauce-notes.notion.site/Calculus-1-2abb8b37e5418012ad8ee57630a9d038?source=copy_link)
+- `[CN]` [Calculus I](https://applesauce-notes.notion.site/Calculus-1-2abb8b37e5418012ad8ee57630a9d038?source=copy_link) (\*in progress)
 
 ## Support [❤️](https://www.buymeacoffee.com/applesauce)
 
