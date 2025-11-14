@@ -17,6 +17,8 @@ Not all of these notes are complete, usually the notes are either
 - full notes `[FN]` : these are notes that cover all aspects of the course sometimes including exercises
 - cram notes `[CN]` : these are notes are just good for exam cramming
 
+## Bachelors 
+
 ### Year 1 
 
 - `[EN]` [Pervasive Computing](https://applesaucenotes.notion.site/Exam-Check-List-a66ab6b1f4f54a62aa3924a5eab1b87f?pvs=4)
@@ -43,14 +45,24 @@ Not all of these notes are complete, usually the notes are either
 - `[FN]` [Machine Learning](https://applesauce-notes.notion.site/Machine-Learning-f2782a8d0c3341d595c4bc1526c330a8?pvs=4) 
 - `[FN]` [Automata and Complextiy](https://applesauce-notes.notion.site/Automata-and-Complexity-db6df659300b4e22b513a3cc7061b376?pvs=4) 
 
+## Masters
+
+- `[FN]` [Verification for Security](https://applesauce-notes.notion.site/Verification-for-Security-264b8b37e54180ebadf2ef284665f7b6?source=copy_link)
+- `[CN]` [Logical Verification](https://applesauce-notes.notion.site/Logical-Verification-2abb8b37e5418061ad66eb0017527137?source=copy_link) (\*in progress)
+- `[FN]` [Dynamic Programming and Reinforcement Learning](https://applesauce-notes.notion.site/Dynamic-Programming-and-Reinforcement-Learning-2abb8b37e541807fa612c42442bcb935?source=copy_link) (\*in progress)
+
+## Other
+
 ### Non-VU 
 
 - `[FN]` [High-Performance Computing](https://applesauce-notes.notion.site/High-Performance-Computing-5e4fe40cb05849b3be49955d07a4703d?pvs=4)
 - `[CN]` [Introduction to Neuroinformatics](https://github.com/KaiErikNiermann/ini-ethz-notes) 
+- `[FN]` [Category Theory](https://applesauce-notes.notion.site/Category-Theory-2abb8b37e54180c6921bcd7c1007d981?source=copy_link)
 
 ### Non-CS 
 
 - `[FN]` [Computational Intelligence](https://applesauce-notes.notion.site/Computational-Intelligence-f343a344873f44f08e88f12395165626?pvs=4) 
+- `[CN]` [Calculus I](https://applesauce-notes.notion.site/Calculus-1-2abb8b37e5418012ad8ee57630a9d038?source=copy_link)
 
 ## Support [❤️](https://www.buymeacoffee.com/applesauce)
 
